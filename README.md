@@ -1,8 +1,8 @@
 # About
 This is the repository for the "Simple Warden" datapack.
-PlanetMinecraft:
+PlanetMinecraft :
 https://www.planetminecraft.com/data-pack/kill-warden-advancement/
-CurseForge:
+CurseForge :
 (null)
 
 Not likely to get updated past v1.0.1 unless something changes with how datapacks work in a future update.
