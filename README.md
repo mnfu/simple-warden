@@ -6,7 +6,7 @@ This is the repository for the "Simple Warden" datapack.
 * PlanetMinecraft :
 https://www.planetminecraft.com/data-pack/kill-warden-advancement/
 * CurseForge :
-(null)
+https://www.curseforge.com/minecraft/texture-packs/simple-warden
 
 Not likely to get updated past v1.0.1 unless something changes with how datapacks work in a future update.
 
