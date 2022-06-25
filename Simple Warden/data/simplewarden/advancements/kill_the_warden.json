@@ -10,8 +10,7 @@
       "text": "Kill the Warden"
     },
     "frame": "challenge",
-    "show_toast": true,
-    "announce_to_chat": true
+    "hidden": false
   },
   "parent": "minecraft:adventure/avoid_vibration",
   "criteria": {
