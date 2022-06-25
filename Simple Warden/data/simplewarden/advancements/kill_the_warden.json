@@ -18,11 +18,11 @@
   "criteria": {
       "killed_warden": {
           "trigger": "minecraft:player_killed_entity",
-	      "conditions": {
-	          "entity": {
-		      "type": "minecraft:warden"
-                  }
+            "conditions": {
+              "entity": {
+                "type": "minecraft:warden"
               }
-          }
+            }
       }
+  }
 }
