@@ -7,8 +7,7 @@
       "text": "Deafening Silence"
     },
     "description": {
-      "text": "Kill the Warden",
-      "color": "dark_purple"
+      "text": "Kill the Warden"
     },
     "frame": "challenge",
     "show_toast": true,
