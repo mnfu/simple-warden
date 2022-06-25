@@ -8,7 +8,7 @@ https://www.planetminecraft.com/data-pack/kill-warden-advancement/
 * CurseForge :
 https://www.curseforge.com/minecraft/texture-packs/simple-warden
 
-Not likely to get updated past v1.0.1 unless something changes with how datapacks work in a future update.
+Not likely to get updated past v1.0.2 unless something changes with how datapacks work in a future update.
 
 # Issues
 If an issue pops up on this project or any other, open an issue in the corresponding repository.
