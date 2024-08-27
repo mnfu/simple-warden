@@ -8,7 +8,7 @@ This is the repository for the "Simple Warden" datapack.
 
 [PlanetMinecraft](https://www.planetminecraft.com/data-pack/kill-warden-advancement/)
 
-Not likely to get updated much unless something changes with how datapacks work in a future update.
+For being such a simple project I'm not inclined to give it much attention, but this should work in future versions like minecraft 1.21+, though this is untested.
 
 # Issues
 If an issue pops up on this project or any other, open an issue in the corresponding repository.
