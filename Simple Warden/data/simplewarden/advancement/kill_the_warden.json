@@ -1,14 +1,10 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:sculk_shrieker"
+      "id": "minecraft:sculk_shrieker"
     },
-    "title": {
-      "text": "Deafening Silence"
-    },
-    "description": {
-      "text": "Kill the Warden"
-    },
+    "title": "Deafening Silence",
+    "description": "Kill the Warden",
     "frame": "challenge",
     "hidden": false
   },

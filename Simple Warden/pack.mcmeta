@@ -1,6 +1,13 @@
 {
   "pack": {
-    "pack_format": 18,
-    "description": "Kill the Warden Advancement Datapack"
+    "description": "Kill the Warden Advancement Datapack",
+    "min_format": [
+      94,
+      0
+    ],
+    "max_format": [
+      94,
+      999
+    ]
   }
 }
